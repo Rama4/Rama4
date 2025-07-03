@@ -28,11 +28,10 @@ Throughout my career of 5 years, I have been driven by a passion for device soft
 
 ## 💼 Work Experience:
 
-- Senior Software Engineer at Divisions Maintenance Group: Developed the UX and application logic of the DMG Pro V2 mobile app, resulting in faster render time and improved user experience.
-- Software Development Engineer in Test-1 at Amazon: Led the migration of Kindle device settings and Out-of-box experience applications, resulting in faster render time and user onboarding.
-- Associate Software Engineer at NortonLifeLock: Developed tools and mechanisms to monitor performance and debug issues in Norton Antivirus.
-- Associate Software Engineer Intern at NortonLifeLock: Automated test cases for antivirus features, reducing manual testing effort.
-- Undergraduate Developer Intern at OneWhistle Inc: Built a high-performance Node.js REST API for push notifications and alerts.
+- Founding Frontend (product) Engineer at Hexus AI: Led the development and architecture of Hexus Web Application, Chrome extension and embed SDK using Next.js, TypeScript, AWS, Tailwind.
+- Senior Software Engineer at Divisions Maintenance Group: Developed the UX and application logic of the DMG Pro mobile app, resulting in faster render time and improved user experience.
+- Software Development Engineer at Amazon: Led the migration of Kindle device settings and Out-of-box experience applications, resulting in faster render time and user onboarding.
+- Associate Software Engineer at Gen Digital: Developed tools, dashboards and mechanisms to monitor performance and debug issues in Norton Antivirus.
 
 ## Project Portfolio:
 Link: https://rama4.github.io/
