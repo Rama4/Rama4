@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Rama Narasimhan Magesh,
+I am Rama Narasimhan,
 
 🚀 Software Engineer | Passionate about Device Software Development | Innovator and Problem Solver | Seeking Exciting Opportunities 🌟
 
