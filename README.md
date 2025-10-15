@@ -29,7 +29,6 @@ Throughout my career of 5 years, I have been driven by a passion for device soft
 ## 💼 Work Experience:
 
 - Founding Frontend (product) Engineer at Hexus AI: Led the development and architecture of Hexus Web Application, Chrome extension and embed SDK using Next.js, TypeScript, AWS, Tailwind.
-- Senior Software Engineer at Divisions Maintenance Group: Developed the UX and application logic of the DMG Pro mobile app, resulting in faster render time and improved user experience.
 - Software Development Engineer at Amazon: Led the migration of Kindle device settings and Out-of-box experience applications, resulting in faster render time and user onboarding.
 - Associate Software Engineer at Gen Digital: Developed tools, dashboards and mechanisms to monitor performance and debug issues in Norton Antivirus.
 
