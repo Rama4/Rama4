@@ -19,7 +19,7 @@ I am Rama Narasimhan,
 
 🚀 Software Engineer | Passionate about Device Software Development | Innovator and Problem Solver | Seeking Exciting Opportunities 🌟
 
-Throughout my career of 5 years, I have been driven by a passion for device software development and the unique challenges it presents. From my academic background in Computer Science to my diverse work experience, I have honed my skills and expertise in creating high-performance and reliable software for a variety of devices.
+Throughout my career of 9 years, I have been driven by a passion for device software development and the unique challenges it presents. From my academic background in Computer Science to my diverse work experience, I have honed my skills and expertise in creating high-performance and reliable software for a variety of devices.
 
 ## 🎓 Academic Background:
 
